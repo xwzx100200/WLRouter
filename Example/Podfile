@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BKRouter_Example' do
+  pod 'BKRouter', :path => '../'
+
+  target 'BKRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

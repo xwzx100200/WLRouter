@@ -1,0 +1,16 @@
+PODS:
+  - BKRouter (0.1.0)
+
+DEPENDENCIES:
+  - BKRouter (from `../`)
+
+EXTERNAL SOURCES:
+  BKRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BKRouter: a91e0d596884ddb699ad7971edc45851f80f6bcc
+
+PODFILE CHECKSUM: 5de83430d6b6446cc4a9829e15c4f2a7bfbdbbc0
+
+COCOAPODS: 1.9.1
